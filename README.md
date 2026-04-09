@@ -77,9 +77,7 @@ AI-powered tool that rewrites text with different tones.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eereenimo&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eereenimo&layout=compact)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eereenimo&show_icons=true&theme=tokyonight)
 
 ---
 
