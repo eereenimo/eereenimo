@@ -1,27 +1,50 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=220&section=header&text=Eren%20Serdaroğlu&fontSize=42&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">AI & Full Stack Developer | Building SaaS Products</h3>
-
-<p align="center">
-  <a href="https://github.com/eereenimo">
-    <img src="https://komarev.com/ghpvc/?username=eereenimo&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
-  </a>
-</p>
+<h3 align="center">AI & Full Stack Developer | Building Real Products</h3>
 
 ---
 
 ## 🧠 About Me
 
-🚀 Full Stack Developer focused on building AI-powered applications and modern web products.  
-🧠 Passionate about LLMs, automation, and SaaS systems.  
+🚀 Software Developer with hands-on experience in full-stack development and AI-powered applications.
 
-- ⚛️ Building with Next.js & modern React ecosystem  
-- 🟦 Strong TypeScript architecture mindset  
-- 🤖 Integrating OpenAI into real-world apps  
-- 🔥 Creating SaaS-style products from scratch  
-- 💼 Experience at Barsan Global Logistics  
-- 🎓 Computer Science Graduate  
+I focus on building real-world products with modern technologies, combining clean UI, scalable backend systems, and intelligent AI integrations.
+
+- ⚛️ Specialized in Next.js & modern React ecosystem  
+- 🟦 Strong TypeScript & fullstack architecture  
+- 🤖 Building AI-powered applications with OpenAI  
+- 🧩 Experience with Strapi, REST APIs & CMS systems  
+- 🐳 Dockerized fullstack applications  
+- 🎯 Product-focused development mindset  
+
+---
+
+## 💼 Experience
+
+### 🚀 CRM & Web Solutions Developer — EMSATEC Makina
+
+- 📈 Increased organic traffic by **40%** through SEO optimization :contentReference[oaicite:0]{index=0}  
+- 💰 Doubled inbound leads in 6 months  
+- 🔗 Integrated CRM systems (forms, downloads, live chat)  
+- ⚡ Automated reporting workflows for sales teams  
+
+---
+
+### 🧠 Software Developer — Drayup (USA)
+
+- Built fullstack app with **Next.js + Strapi CMS** :contentReference[oaicite:1]{index=1}  
+- Integrated REST APIs for dynamic content  
+- Dockerized the entire system  
+- Worked in Agile environment  
+
+---
+
+### 💼 Barsan Global Logistics
+
+- Developed modern UI components with Next.js  
+- Contributed to scalable frontend architecture  
+- Worked in Agile team with Jira & Confluence  
 
 ---
 
@@ -33,10 +56,10 @@
   <img src="https://github.com/user-attachments/assets/eae42cbf-2ca6-4313-8a40-e2d3fc38c6bc" width="80%" />
 </p>
 
-✨ AI-powered tool that rewrites text with different tones and styles.
+AI-powered tool that rewrites text with different tones.
 
 - 🎯 Tone transformation (professional, casual, persuasive)
-- ⚡ Fast LLM responses
+- ⚡ Fast AI responses (OpenAI)
 - 🧾 History system
 - 🎨 Clean SaaS UI
 
@@ -47,7 +70,7 @@
 ## ⚙️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,firebase,docker,tailwind" />
 </p>
 
 ---
@@ -61,34 +84,35 @@
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Currently Focused On
 
-- 🧠 AI-powered tools & assistants  
-- 🚀 SaaS-style web applications  
-- 🔥 Scalable fullstack systems  
+- 🧠 AI-powered SaaS applications  
+- ⚡ Fullstack system design  
+- 🚀 Scalable product development  
 
 ---
 
-## 🤝 Experience
+## 🎓 Education
 
-- 💼 Software Developer @ Barsan Global Logistics  
-- 🧑‍💻 Fullstack development (frontend + backend + CMS)  
-- ⚙️ API & system integrations  
+🎓 B.Sc. Computer Science — Dokuz Eylül University :contentReference[oaicite:2]{index=2}  
+
+---
+
+## 🤝 Community
+
+- 👨‍🏫 Volunteered teaching coding to children  
+- 🤝 Strong team collaboration & communication skills  
 
 ---
 
 ## 📫 Contact
 
-- 💼 LinkedIn: (buraya ekle)
-- 🌐 Portfolio: (varsa ekle)
-- 📧 Email: (buraya ekle)
+- 📧 erenserdaroglu01@gmail.com  
+- 💼 https://www.linkedin.com/in/erenserdaroglu/  
+- 💻 https://github.com/eereenimo  
 
 ---
 
 ## ⚡ Fun Fact
 
-I don't just build projects — I build products.
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer)
+I don’t just build projects — I build products that create impact.
