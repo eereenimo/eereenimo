@@ -24,7 +24,7 @@ I focus on building real-world products with modern technologies, combining clea
 
 ### 🚀 CRM & Web Solutions Developer — EMSATEC Makina
 
-- 📈 Increased organic traffic by **40%** through SEO optimization :contentReference[oaicite:0]{index=0}  
+- 📈 Increased organic traffic by **40%** through SEO optimization 
 - 💰 Doubled inbound leads in 6 months  
 - 🔗 Integrated CRM systems (forms, downloads, live chat)  
 - ⚡ Automated reporting workflows for sales teams  
@@ -33,7 +33,7 @@ I focus on building real-world products with modern technologies, combining clea
 
 ### 🧠 Software Developer — Drayup (USA)
 
-- Built fullstack app with **Next.js + Strapi CMS** :contentReference[oaicite:1]{index=1}  
+- Built fullstack app with **Next.js + Strapi CMS** 
 - Integrated REST APIs for dynamic content  
 - Dockerized the entire system  
 - Worked in Agile environment  
@@ -77,10 +77,9 @@ AI-powered tool that rewrites text with different tones.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eereenimo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eereenimo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=eereenimo&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eereenimo&layout=compact)
 
 ---
 
@@ -94,7 +93,7 @@ AI-powered tool that rewrites text with different tones.
 
 ## 🎓 Education
 
-🎓 B.Sc. Computer Science — Dokuz Eylül University :contentReference[oaicite:2]{index=2}  
+🎓 B.Sc. Computer Science — Dokuz Eylül University 
 
 ---
 
